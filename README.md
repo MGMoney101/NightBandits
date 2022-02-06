@@ -1,2 +1,0 @@
-# NightBandits
-Night Bandits
